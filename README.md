@@ -5,9 +5,11 @@ With features like task completion tracking, customizable night mode, and the ab
 
 # Features:
 Task Management: Users can add tasks to the list, specify the estimated time for completion, and mark tasks as complete. Each task can be edited or deleted if needed.
+
 Completed Tasks: The application provides a separate view to display completed tasks for easy tracking of progress.
-Task Persistence: Tasks remain in the list even after the application is closed, providing simple data persistence between sessions.
+
 Night Mode: Users can switch between light and dark themes, making the application easier on the eyes during different lighting conditions.
+
 User-Friendly Interface: The application provides a clean and intuitive interface for task input and viewing, making task management straightforward.
 # Technologies Used:
 Language: C#
@@ -28,4 +30,6 @@ App.config: Configuration file for the application settings.
 Resources: Contains icons and images used in the application interface.
 
 # Video for the Application
+
+https://github.com/user-attachments/assets/6758edd2-5430-4566-ad58-03f3b85250db
 
