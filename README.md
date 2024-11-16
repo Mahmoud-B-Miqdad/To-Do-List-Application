@@ -22,15 +22,24 @@ UI Components: Windows Forms with custom controls like labels and buttons for ta
 
 # How to Use:
 Add Task: Launch the application and use the input field to add a new task. Specify the task description and the estimated time required to complete it.
+
 Complete Task: Once you finish a task, right-click on it and choose the "Complete" option from the context menu. The task will automatically move to the "Completed Tasks" section.
+
 Edit Task: To modify a task, double-click on it in the task list. You can change the task description or estimated time.
+
 Delete Task: Right-click on the task you want to delete, and choose the "Delete" option from the context menu.
+
 Toggle Night Mode: Switch between light and dark mode by using the night mode toggle for a more comfortable experience.
+
 # Files and Structure:
 frmToDoList.cs: Implements the main to-do list functionality, including task addition, time estimation, task completion, task editing, and night mode.
+
 frmCompleteTasks.cs: Manages the completed tasks view, displaying tasks that have been marked as done.
+
 Program.cs: The main entry point that launches the application.
+
 App.config: Configuration file for the application settings.
+
 Resources: Contains icons and images used in the application interface.
 
 # Video for the Application
