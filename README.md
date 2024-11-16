@@ -13,9 +13,13 @@ Night Mode: Users can switch between light and dark themes, making the applicati
 User-Friendly Interface: The application provides a clean and intuitive interface for task input and viewing, making task management straightforward.
 # Technologies Used:
 Language: C#
+
 Framework: .NET Framework 4.7.2
+
 IDE: Visual Studio
+
 UI Components: Windows Forms with custom controls like labels and buttons for task management, and integration with Guna UI2 for enhanced visual styling.
+
 # How to Use:
 Add Task: Launch the application and use the input field to add a new task. Specify the task description and the estimated time required to complete it.
 Complete Task: Once you finish a task, right-click on it and choose the "Complete" option from the context menu. The task will automatically move to the "Completed Tasks" section.
