@@ -1,0 +1,12 @@
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Mahmoud-B-Meqdad\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmToDoList.resources
